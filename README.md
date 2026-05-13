@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
