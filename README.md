@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1914-cyclically-rotating-a-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
