@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2784-check-if-array-is-good) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 ## Prefix Sum
 |  |
