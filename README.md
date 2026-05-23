@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
