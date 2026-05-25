@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
