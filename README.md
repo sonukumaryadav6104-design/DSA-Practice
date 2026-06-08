@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
