@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0292-nim-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
@@ -311,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
