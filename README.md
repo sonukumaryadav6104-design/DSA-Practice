@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1288-remove-covered-intervals](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
