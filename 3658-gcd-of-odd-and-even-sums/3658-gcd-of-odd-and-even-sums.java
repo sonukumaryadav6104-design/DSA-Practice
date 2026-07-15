@@ -5,8 +5,24 @@ class Solution {
     }
 
     public int gcdOfOddEvenSums(int n) {
-        int oddSum = n * n;
-        int evenSum = n * (n + 1);
+        int oddSum = 0;
+        int evenSum = 0;
+
+        int temp = n;
+
+        int i = 1;
+        while (temp-- > 0) {
+            oddSum += i;
+            i += 2;
+        }
+
+        temp = n;
+
+        int j = 2;
+        while (temp-- > 0) {
+            evenSum += j;
+            j += 2;
+        }
 
         return gcd(oddSum, evenSum);
     }
