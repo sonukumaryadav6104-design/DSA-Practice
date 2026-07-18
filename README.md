@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0292-nim-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
