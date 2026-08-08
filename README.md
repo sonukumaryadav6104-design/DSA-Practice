@@ -67,6 +67,7 @@
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -198,6 +199,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -235,6 +237,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
@@ -302,6 +305,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
