@@ -67,6 +67,7 @@
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -109,6 +110,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -397,6 +399,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -409,8 +412,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
