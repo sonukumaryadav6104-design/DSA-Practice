@@ -33,6 +33,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -243,6 +244,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -307,6 +309,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -432,4 +435,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
