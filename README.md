@@ -72,6 +72,7 @@
 | [3838-weighted-word-mapping](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4020-elevator-requests-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/4024-nearest-available-drone) |
 ## Tree
 |  |
 | ------- |
