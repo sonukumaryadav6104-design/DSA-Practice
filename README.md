@@ -71,6 +71,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/4020-elevator-requests-i) |
 ## Greedy
 |  |
 | ------- |
