@@ -132,6 +132,7 @@
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -228,6 +229,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -265,6 +267,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -440,6 +443,7 @@
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
