@@ -28,6 +28,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -82,6 +83,7 @@
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -132,6 +134,7 @@
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
@@ -288,6 +291,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -443,6 +447,7 @@
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Combinatorics
@@ -459,12 +464,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
