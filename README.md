@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
@@ -285,6 +286,7 @@
 | [0012-integer-to-roman](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
+| [0940-distinct-subsequences-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
