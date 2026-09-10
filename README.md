@@ -202,6 +202,7 @@
 | [0207-course-schedule](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -411,6 +412,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -418,6 +420,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
