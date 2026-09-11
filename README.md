@@ -59,6 +59,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -128,6 +129,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -394,6 +396,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -404,6 +407,7 @@
 | [1291-sequential-digits](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4024-nearest-available-drone](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/4024-nearest-available-drone) |
