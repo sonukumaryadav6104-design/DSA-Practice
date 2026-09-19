@@ -148,6 +148,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -542,4 +543,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
