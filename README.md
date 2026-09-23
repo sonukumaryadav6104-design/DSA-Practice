@@ -20,6 +20,7 @@
 | [1345-jump-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -120,6 +121,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -331,6 +333,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
@@ -349,6 +352,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3161-block-placement-queries) |
@@ -376,6 +380,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
