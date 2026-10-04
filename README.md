@@ -93,6 +93,7 @@
 | [0022-generate-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -267,6 +268,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -315,6 +317,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -479,6 +482,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -578,6 +582,7 @@
 | [0020-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
