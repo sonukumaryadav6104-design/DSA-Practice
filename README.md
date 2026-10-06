@@ -269,6 +269,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -319,6 +320,7 @@
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -485,6 +487,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -586,6 +589,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
