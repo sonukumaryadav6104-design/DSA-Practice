@@ -1,50 +1,51 @@
 
-// Using Hashset
-
+//  Using List
 class Solution {
-    public int sumCounts(List<Integer> nums){
-  
-      int ans = 0;
-      for(int i = 0;i<nums.size();i++){
-        
-        HashSet<Integer> st = new HashSet<>();
+    public int sumCounts(List<Integer> nums) {
 
-        for(int j = i ;j<nums.size();j++){
-            st.add(nums.get(j));
+        int ans = 0;
+
+        for(int i = 0;i<nums.size();i++){
             
-            int distinct = st.size();
+            int distinct = 0;
 
-            ans += distinct*distinct;
+            ArrayList<Integer> st = new ArrayList<>();
+
+            for(int j = i;j<nums.size();j++){
+
+                 if (!st.contains(nums.get(j))) {
+                    distinct++;
+                    st.add(nums.get(j));
+                }
+                
+                ans += distinct*distinct;
+                
+
+            }
         }
-      }
-      return ans;
+        return ans;
     }
 }
 
-// Using List
+
+// Using Hashset
+
 // class Solution {
-//     public int sumCounts(List<Integer> nums) {
+//     public int sumCounts(List<Integer> nums){
+  
+//       int ans = 0;
+//       for(int i = 0;i<nums.size();i++){
+        
+//         HashSet<Integer> st = new HashSet<>();
 
-//         int ans = 0;
-
-//         for(int i = 0;i<nums.size();i++){
+//         for(int j = i ;j<nums.size();j++){
+//             st.add(nums.get(j));
             
-//             int distinct = 0;
+//             int distinct = st.size();
 
-//             ArrayList<Integer> st = new ArrayList<>();
-
-//             for(int j = i;j<nums.size();j++){
-
-//                  if (!st.contains(nums.get(j))) {
-//                     distinct++;
-//                     st.add(nums.get(j));
-//                 }
-                
-//                 ans += distinct*distinct;
-                
-
-//             }
+//             ans += distinct*distinct;
 //         }
-//         return ans;
+//       }
+//       return ans;
 //     }
 // }
