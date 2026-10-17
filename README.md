@@ -70,6 +70,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3620-network-recovery-pathways) |
@@ -152,6 +153,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -321,6 +323,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
