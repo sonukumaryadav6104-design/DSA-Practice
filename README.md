@@ -20,6 +20,7 @@
 | [1345-jump-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -107,6 +108,7 @@
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -172,6 +174,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1840-maximum-building-height) |
@@ -486,6 +489,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -494,6 +498,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
@@ -534,6 +539,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -545,9 +551,11 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -573,6 +581,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -627,4 +636,12 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
