@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1140-stone-game-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
@@ -217,6 +218,7 @@
 | [0127-word-ladder](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [1254-number-of-closed-islands](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [1254-number-of-closed-islands](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -266,6 +269,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -568,6 +572,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
