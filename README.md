@@ -76,6 +76,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -226,6 +227,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -250,6 +252,7 @@
 | [3310-remove-methods-from-project](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -577,6 +581,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
 |  |
 | ------- |
