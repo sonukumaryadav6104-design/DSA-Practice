@@ -83,6 +83,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -128,6 +129,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -283,6 +285,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
