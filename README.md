@@ -21,6 +21,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -346,6 +347,7 @@
 | [1288-remove-covered-intervals](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -433,6 +435,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -496,6 +499,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonukumaryadav6104-design/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
